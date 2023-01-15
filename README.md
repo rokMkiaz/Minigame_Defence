@@ -1,9 +1,5 @@
 ## Mini Game
-목표 : 레그돌을 사용한 하이퍼 캐쥬얼 퍼즐게임 제작\
-간단 소개 영상-> https://www.youtube.com/watch?v=IeHmAAoZXs8  \
-제작 기간 : 3주(개발기간)+ 1개월(SDK,추가스테이지 작업)\
-담당 : 개발,레벨,맵 디자인
+이전 스파르타 코딩클럽에서 만든 작은 미니게임을 다듬은 프로젝트
 
-### BaseSystem
-- Raycast\
-![ra1](https://user-images.githubuserconte
+![KakaoTalk_20230115_134745545](https://user-images.githubusercontent.com/93506849/212523418-c585c1a5-ac9a-4141-9208-70bd92c8118c.gif)
+- 델리게이트&이벤트, 코루틴, 오브젝트 풀링을 적용해 보았다.
